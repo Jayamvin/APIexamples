@@ -1,0 +1,7 @@
+{
+    "name" :  "vindhya",
+  // "email" : "{{$randomemail}}", 
+    "email" : "vin8@api.com", 
+    "gender" : "female",
+    "status" : "active"
+}
